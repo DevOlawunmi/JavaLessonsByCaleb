@@ -8,6 +8,11 @@ public class MySweetProgram {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
         System.out.println("Hello "+ name);
+        int a = 5;
+        int y =a+7;
+        System.out.println(y);
+        int z = y%a;
+        System.out.println(z);
     }
 
 
