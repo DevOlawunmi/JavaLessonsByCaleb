@@ -22,6 +22,7 @@ public class MySweetProgram {
         //working with individual characters of a string
         String boo = "gorgeous";
         System.out.println(boo.charAt(0));
+        System.out.println(boo.indexOf('g'));
 
         // \n gets rendered as a new line
         String eg = "Semilore\n\n\nOlorun";

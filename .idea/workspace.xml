@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5efd048-c36b-4491-b66b-9634ef47cd1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hour1/StringLessons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Lessons By Caleb/hour1/MySweetProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Lessons By Caleb/hour1/MySweetProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hour1/MySweetProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hour1/MySweetProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
       <recent name="hour1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringLessons">
+  <component name="RunManager" selected="Application.MySweetProgram">
     <configuration name="MySweetProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hour1.MySweetProgram" />
       <module name="Java Lessons By Caleb" />
@@ -72,8 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringLessons" />
         <item itemvalue="Application.MySweetProgram" />
+        <item itemvalue="Application.StringLessons" />
       </list>
     </recent_temporary>
   </component>
@@ -114,42 +111,50 @@
       <option name="project" value="LOCAL" />
       <updated>1595392941281</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Comparing Strings">
+      <created>1595475669395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595475669395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning about variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning about variables" />
+    <MESSAGE value="Comparing Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparing Strings" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1595302910247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595302910247" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1595392940601">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1595475668517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595392940601" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595475352250">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595475668517" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595481279859">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595475352250" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595475352250">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595481279859" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595481279859">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595475352250" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595475352250">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595481279858" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595481279858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595475352250" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595475352250">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595481279858" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595481279859">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595475352250" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1595392945470">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595481279859" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1595475671997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595392945470" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595475671997" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1595388017027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
