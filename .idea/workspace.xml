@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5efd048-c36b-4491-b66b-9634ef47cd1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hour1/MoreStringLessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Lessons By Caleb/hour1/MySweetProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Lessons By Caleb/hour1/MySweetProgram.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hour1/MySweetProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hour1/MySweetProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +43,20 @@
       <recent name="hour1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MySweetProgram">
+  <component name="RunManager" selected="Application.MoreStringLessons">
+    <configuration name="MoreStringLessons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hour1.MoreStringLessons" />
+      <module name="Java Lessons By Caleb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hour1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MySweetProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hour1.MySweetProgram" />
       <module name="Java Lessons By Caleb" />
@@ -69,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoreStringLessons" />
         <item itemvalue="Application.MySweetProgram" />
         <item itemvalue="Application.StringLessons" />
       </list>
@@ -125,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595481341435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Comparing Strings, indexOf vs charAt">
+      <created>1595560545901</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595560545901</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,30 +163,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595302910247" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1595481340909">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1595560545100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595481340909" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595482776490">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1595560545100" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595562816600">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595482776490" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595482776490">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595562816600" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595562816599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595482776490" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595482776490">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595562816599" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595562816599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595482776490" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595482776490">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595562816599" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595562816600">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595482776490" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1595481343797">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595562816600" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1595560548587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595481343797" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595560548587" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1595560523559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
