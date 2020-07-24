@@ -27,6 +27,8 @@ public class MySweetProgram {
         // \n gets rendered as a new line
         String eg = "Semilore\n\n\nOlorun";
         System.out.println(eg);
+        // \' inserts single quotes
+        // \" inserts double quotes
 
     }
 
