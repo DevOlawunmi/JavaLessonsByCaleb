@@ -16,6 +16,7 @@ public class NestedIfStatements {
         System.out.println("How much is your current salary?");
         Scanner scanner = new Scanner(System.in);
         int currentPay = scanner.nextInt();
+        scanner.close();
         System.out.println("How many years have you worked for the company? ");
         int yearsWorked = scanner.nextInt();
         if (currentPay >= minimumPayToQualify) {
