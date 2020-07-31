@@ -10,7 +10,7 @@ This one says our program cannot allow for overtime, which means we need to vali
 As long as they are entering an invalid no of hours, it wil loop.
 
 
-While loop is ICU.
+While loop is ICU. Initialization, comparison, update.
  */
 
 import java.util.Scanner;
