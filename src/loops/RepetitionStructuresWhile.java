@@ -11,7 +11,7 @@ As long as they are entering an invalid no of hours, it wil loop.
 
 
 While loop is ICU. Initialization, condition, update.
-Each time ---- happens, I will do ----
+
  */
 
 import java.util.Scanner;
