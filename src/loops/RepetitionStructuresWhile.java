@@ -25,7 +25,7 @@ public class RepetitionStructuresWhile {
         Scanner scanner = new Scanner(System.in);
         double hoursWorked = scanner.nextDouble(); //this is where we initialize
 
-// As long as they are entering an invalid no of hours worked, it will lool
+// As long as they are entering an invalid no of hours worked, it will loop
         while (hoursWorked>maxHours)  // this is where we compare
         {
             System.out.println("Overtime not paid for, please enter 40 or less");
