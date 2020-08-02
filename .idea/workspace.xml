@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5efd048-c36b-4491-b66b-9634ef47cd1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loops/NestedForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/RepetitionStructuresWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/RepetitionStructuresWhile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596238978710</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Nested For Loop example">
+      <created>1596240373894</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596240373894</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,33 +274,34 @@
     <MESSAGE value="Nested If Statement practice TAU" />
     <MESSAGE value="For Loop example added" />
     <MESSAGE value="While Loop updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="While Loop updated" />
+    <MESSAGE value="Nested For Loop example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested For Loop example" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1595563287561">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595563287561" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596238978230">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596240373388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596238978230" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596240026451">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596240373388" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596240389047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596240026451" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596240026451">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596240389047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596240026451" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596240026451">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596240389047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596240026451" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596240026451">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596240389047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596240026451" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1595654236569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -310,14 +318,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595654236569" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596238981060">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596240376732">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596238981060" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596224121172">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596240376732" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596343736512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596224121172" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596343736512" />
     <state x="209" y="34" key="new project wizard" timestamp="1595906955028">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

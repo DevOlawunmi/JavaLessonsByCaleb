@@ -10,7 +10,8 @@ This one says our program cannot allow for overtime, which means we need to vali
 As long as they are entering an invalid no of hours, it wil loop.
 
 
-While loop is ICU. Initialization, comparison, update.
+While loop is ICU. Initialization, condition, update.
+Each time ---- happens, I will do ----
  */
 
 import java.util.Scanner;
@@ -22,12 +23,13 @@ public class RepetitionStructuresWhile {
 
         System.out.println("Please enter no of hours worked");
         Scanner scanner = new Scanner(System.in);
-        double hoursWorked = scanner.nextDouble();
+        double hoursWorked = scanner.nextDouble(); //this is where we initialize
 
 
-        while (hoursWorked>maxHours){
+        while (hoursWorked>maxHours)  // this is where we compare
+        {
             System.out.println("Overtime not paid for, please enter 40 or less");
-            hoursWorked = scanner.nextDouble();
+            hoursWorked = scanner.nextDouble();   // this is where we update and then go back to check the condition again
 
         }
 scanner.close();
