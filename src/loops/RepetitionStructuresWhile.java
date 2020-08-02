@@ -7,7 +7,7 @@ Each store employee makes £15 an hour. Write a programme that allows a manager 
 and calculate their pay. Do not allow for overtime.
 We'll need to calculate the salary for employees based on how many hours they have worked.
 This one says our program cannot allow for overtime, which means we need to validate the input, hence the while loop
-As long as they are entering an invalid no of hours, it wil loop.
+As long as they are entering an invalid no of hours, it will loop.
 
 
 While loop is ICU. Initialization, condition, update.
@@ -25,7 +25,7 @@ public class RepetitionStructuresWhile {
         Scanner scanner = new Scanner(System.in);
         double hoursWorked = scanner.nextDouble(); //this is where we initialize
 
-
+// As long as they are entering an invalid no of hours worked, it will lool
         while (hoursWorked>maxHours)  // this is where we compare
         {
             System.out.println("Overtime not paid for, please enter 40 or less");
