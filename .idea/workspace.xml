@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5efd048-c36b-4491-b66b-9634ef47cd1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/loops/RepetitionStructuresWhile2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/RepetitionStructuresWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/RepetitionStructuresWhile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
       <recent name="hour1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedForLoop">
+  <component name="RunManager" selected="Application.RepetitionStructuresWhile2">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hour2.FizzBuzz" />
       <module name="Java Lessons By Caleb" />
@@ -61,19 +61,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NestedIfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hour2.NestedIfStatements" />
-      <module name="Java Lessons By Caleb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hour2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepetitionStructuresWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.RepetitionStructuresWhile2" />
+      <module name="Java Lessons By Caleb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepetitionStructuresWhile2" />
         <item itemvalue="Application.NestedForLoop" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.RepetitionStructuresFor" />
         <item itemvalue="Application.RepetitionStructuresWhile" />
-        <item itemvalue="Application.NestedIfStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596344195976</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="While loop update">
+      <created>1596344372916</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1596344372916</updated>
+    </task>
+    <task id="LOCAL-00021" summary="While loop update">
+      <created>1596344395078</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1596344395078</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,26 +311,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595563287561" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596344372212">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596344394386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596344372212" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596240389047">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596344394386" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596345077687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596240389047">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596345077687" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596345077686">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596240389047">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596345077686" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596345077686">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596240389047">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596345077686" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596345077687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596240389047" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596345077687" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1595654236569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -333,10 +347,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595654236569" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596344377138">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596344417523">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596344377138" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596344417523" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596343736512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
