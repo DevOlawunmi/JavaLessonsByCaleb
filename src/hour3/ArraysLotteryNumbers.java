@@ -1,5 +1,6 @@
 package hour3;
 
+import java.util.Arrays;
 import java.util.Random;
 //We're going to create a Lottery Quick Pick application that will
 // generate a lottery ticket with 6 random numbers, between 1 and 69
@@ -26,10 +27,12 @@ public class ArraysLotteryNumbers {
         }
         return ticket;
     }
-        public static void printTicket(int ticket[]){
-            for(int i=0; i<LENGTH; i++){
-                System.out.print(ticket[i] + " | ");
-            }
+        public static void printTicket(int[] ticket){
+//            for(int i=0; i<LENGTH; i++){
+//                System.out.print(ticket[i] + " | ");
+//            }
+            System.out.print(Arrays.toString(ticket));
+    }
+
 
     }
-}
