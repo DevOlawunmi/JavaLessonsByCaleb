@@ -14,9 +14,9 @@ public class Arrays2D {
         // System.out.println(grades.length); //output 3
         // System.out.println(grades[1].length); //output 8
 
-        for (int i = 0; i < grades.length; i++) { //the first time, i will be 0 ie the first row
-            for (int k = 0; k < grades[i].length; k++) {
-                System.out.print(grades[i][k] + " ");
+        for (int row = 0; row < grades.length; row++) { //the first time, row will be 0 ie the first row
+            for (int column= 0; column < grades[row].length; column++) {
+                System.out.print(grades[row][column] + " ");
             }
              System.out.println();
         }
