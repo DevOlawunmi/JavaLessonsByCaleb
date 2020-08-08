@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 public class ArrayListLesson {
     public static void main(String[] args) {
-        ArrayList<String> cars = new ArrayList<>();
+        ArrayList<String> cars = new ArrayList<String>();
+
         cars.add("Mazda");
         cars.add("Volvo");
         cars.add("Audi");
@@ -23,9 +24,8 @@ public class ArrayListLesson {
         //  cars.remove(1); removes the element in that index
         //  cars.clear(); gets rid of all elements in the array
 
-        for (int i = 0; i < cars.size(); i++)
-        {
-            System.out.println("I have a " + cars.get(i)); //this loops through the list and displays current index
+        for (String car : cars) {
+            System.out.println("I have a " + car); //this loops through the list and displays current index
 
         }
     }
