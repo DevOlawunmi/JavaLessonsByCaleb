@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d5efd048-c36b-4491-b66b-9634ef47cd1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hour3/ArraysTAU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hour3/ArraysTAU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hour3/Arrays2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hour3/Arrays2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
       <recent name="hour1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraysTAU">
+  <component name="RunManager" selected="Application.Arrays2D">
     <configuration name="Apples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="guiBuild.Apples" />
       <module name="Java Lessons By Caleb" />
@@ -109,9 +109,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays2D" />
         <item itemvalue="Application.ArraysTAU" />
         <item itemvalue="Application.ArrayListLesson" />
-        <item itemvalue="Application.Arrays2D" />
         <item itemvalue="Application.Oranges" />
         <item itemvalue="Application.Apples" />
       </list>
@@ -399,11 +399,17 @@
       <option name="project" value="LOCAL" />
       <updated>1596860870605</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Simple Array tricks">
+      <created>1596865299630</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1596865299630</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Comparing Strings" />
     <MESSAGE value="Comparing Strings, indexOf vs charAt" />
     <MESSAGE value="More string lessons" />
     <MESSAGE value="Creating Objects" />
@@ -428,33 +434,34 @@
     <MESSAGE value="ArrayList Example" />
     <MESSAGE value="ArrayList Example update" />
     <MESSAGE value="Refactor : Enhanced for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor : Enhanced for loop" />
+    <MESSAGE value="Simple Array tricks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple Array tricks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1595563287561">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595563287561" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596860869881">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1596865299076">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596860869881" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596865263422">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596865299076" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596865320731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596865263422" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596865263422">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596865320731" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596865320731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596865263422" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596865263422">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596865320731" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596865320731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596865263422" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596865263422">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596865320731" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596865320731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596865263422" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596865320731" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596520948079">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -471,22 +478,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596520948079" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596860873859">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596865302658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596860873859" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596860660395">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596865302658" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1597115219903">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596860660395" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597115219903" />
     <state x="345" y="149" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596513876007">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="345" y="149" width="846" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1596513876007" />
-    <state x="209" y="34" key="new project wizard" timestamp="1595906955028">
+    <state x="209" y="34" key="new project wizard" timestamp="1597115321430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595906955028" />
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1597115321430" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Lessons_By_Caleb$ArraysLotteryNumbers.ic" NAME="ArraysLotteryNumbers Coverage Results" MODIFIED="1596513824657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

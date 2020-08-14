@@ -15,10 +15,15 @@ public class Arrays2D {
         // System.out.println(grades[1].length); //output 8
 
         for (int row = 0; row < grades.length; row++) { //the first time, row will be 0 ie the first row
-            for (int column= 0; column < grades[row].length; column++) {
+            for (int column = 0; column < grades[row].length; column++) {
                 System.out.print(grades[row][column] + " ");
             }
-             System.out.println();
+            System.out.println();
+        }
+        for (int[] grade : grades) { //the first time, row will be 0 ie the first row
+            for (int i : grade) {
+                System.out.print(i + " ");
+            }
         }
     }
 }
